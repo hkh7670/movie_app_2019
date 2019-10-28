@@ -1,3 +1,3 @@
 # Movie App 2019
 
-React JS Fundamentals Course (2019 Update!)
+영화 정보를 확인할 수 있는 리액트 앱
